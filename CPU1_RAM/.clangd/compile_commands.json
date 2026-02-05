@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/TEST_CODE_CURRENTSENSE\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/TEST_CODE_CURRENTSENSE/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM/syscfg\" -DF280013x=1 -xc",
+      "file"      : "D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/TEST_CODE_CURRENTSENSE\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/TEST_CODE_CURRENTSENSE/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM/syscfg\" -DF280013x=1 -xc",
+      "file"      : "D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   },
+   {
+      "directory" : "D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/TEST_CODE_CURRENTSENSE\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/TEST_CODE_CURRENTSENSE/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM/syscfg\" -DF280013x=1 -xc",
+      "file"      : "D:/git_code/TEST_CODE_CURRENTSENSE/device/device.c"
+   },
+   {
+      "directory" : "D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/TEST_CODE_CURRENTSENSE\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/TEST_CODE_CURRENTSENSE/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM/syscfg\" -DF280013x=1",
+      "file"      : "D:/git_code/TEST_CODE_CURRENTSENSE/device/f280013x_codestartbranch.asm"
+   },
+   {
+      "directory" : "D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/TEST_CODE_CURRENTSENSE\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/TEST_CODE_CURRENTSENSE/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"D:/git_code/TEST_CODE_CURRENTSENSE/CPU1_RAM/syscfg\" -DF280013x=1 -xc",
+      "file"      : "D:/git_code/TEST_CODE_CURRENTSENSE/empty_driverlib_main.c"
+   }
+]
